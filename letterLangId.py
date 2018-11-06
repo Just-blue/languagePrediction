@@ -1,3 +1,7 @@
+"""
+Author: Lauren Gardiner
+Date: 11/1/18
+"""
 from collections import Counter
 import argparse
 import logging

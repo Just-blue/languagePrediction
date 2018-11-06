@@ -1,3 +1,7 @@
+"""
+Author: Lauren Gardiner
+Date: 11/1/18
+"""
 import string
 import operator
 from collections import Counter
